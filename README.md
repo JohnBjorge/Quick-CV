@@ -1,2 +1,2 @@
 # Quick-CV
-Updates your cv with new position and company name
+Updates your cover letter with new position and company name
